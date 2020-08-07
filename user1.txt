@@ -1,3 +1,4 @@
 username: Shruthi
 passowrd: 123@xyz.com
 URL: automation.org
+sample: check url
